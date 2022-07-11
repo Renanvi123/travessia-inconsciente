@@ -1,0 +1,52 @@
+body {
+   background-color: black;
+   color: grey;
+   font-size: 40px;
+   font-style: Fantasy;
+  }
+
+h1{
+
+    color: orchid;
+    text-align: center;
+    font-style: Sans-serif;
+}
+
+h2{
+    text-align: center;
+    color: orchid;
+    font-style: Sans-serif;
+}
+
+p{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+ul{
+    
+    font-style: Sans-serif;
+font-size: 20px;
+
+}
+
+div{
+    width: 1650px;
+    
+    }
+
+img {
+
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin: 0 auto;
+
+}
+
+span{
+
+    background-color: black;
+   color: grey;
+}
