@@ -2,31 +2,34 @@ body {
    background-color: black;
    color: grey;
    font-size: 40px;
-   font-style: Fantasy;
+   font-style: Sans-serif;
   }
 
 h1{
 
     color: orchid;
     text-align: center;
-    font-style: Sans-serif;
+    padding: 25px;
+    
 }
 
 h2{
     text-align: center;
     color: orchid;
-    font-style: Sans-serif;
+    
 }
 
 p{
     font-size: 20px;
-    font-family: 'Times New Roman', Times, serif;
+    
 }
+
+
 
 
 ul{
     
-    font-style: Sans-serif;
+    
 font-size: 20px;
 
 }
@@ -50,3 +53,4 @@ span{
     background-color: black;
    color: grey;
 }
+
